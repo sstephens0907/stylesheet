@@ -1,0 +1,124 @@
+body {
+    margin: 0 auto;
+    color: #293554;
+    text-align: center;
+    background-color: #fdf6f0;
+}
+h1 {
+    text-align: center;
+    font-family: Lobster;
+    font-size: 50px;
+    font-weight: 700;
+    color: #fdf6f0;
+    background-color: #7c695f;
+}
+h2 {
+    text-align: center;
+    font-family: bitter;
+    font-size: 30px;
+    font-weight: 500;
+}
+.container {
+  border: 2px solid #1b2338;
+  padding: 10px;
+  margin: 15 auto;  
+}
+/*color section*/
+.color-container {
+    background-color: #aabbb0;
+}
+.color-block {
+    font-family: poppins;
+    display: inline-block;
+    text-align: center;
+    width: 17%;
+    margin: 20px auto;
+    min-height: 100%;
+}
+
+.light-pink {
+    background-color: #FCC0B4;
+    color: #293554;
+}
+.navy {
+    background-color: #293554;
+    color: #fdf6f0;
+}
+.sage {
+    background-color: #547761;
+    color: #fdf6f0;
+}
+.cream {
+    background-color: #fdf6f0;
+    color: #44291b;
+
+}
+.brown {
+    background-color: #44291b;
+    color: #fdf6f0;
+}
+/*font section*/
+.font-panel {
+    display: inline-block;
+    width: 30%;
+}
+
+.font-label {
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+.regular {
+    font-style: normal;
+    font-size: 20px;
+}
+.bold {
+    font-weight: 700;
+    font-size: 20px;
+}
+.italic {
+    font-style: italic;
+    font-size: 20px;
+}
+.poppins {
+    font-family: 'poppins', sans-serif;
+}
+.bitter {
+    font-family: bitter, serif;
+}
+
+.lobster {
+    font-family: 'lobster', display;
+}
+/*text styles section*/
+.style-block {
+    display: inline-block;
+    width: 30%;
+    margin: 20px auto;
+    min-height: 100%;
+
+}
+#text-title {
+    background-color: #FCC0B4;
+}
+
+.heading {
+  font-family: lobster, display;
+  font-size: 45px;
+  font-weight: 700;  
+}
+
+.subheading {
+    font-family: bitter, serif;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.paragraph {
+    font-family: poppins, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+
+
